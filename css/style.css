@@ -1,0 +1,39 @@
+* {
+    font-family: Arial;
+}
+header {
+    border: dotted;
+}
+
+#home {
+    background-color: bisque;
+}
+
+#eloquent-ruby {
+    background-color: lightblue;
+}
+
+#contact {
+    background-color: lightgray;
+}
+
+footer {
+    border: dotted;
+    background-color: bisque;
+}
+
+main {
+    background-color: bisque;
+}
+
+.book-title {
+    font-style: italic;
+}
+
+a:hover {
+    background-color: red;
+}
+
+ul {
+    list-style-type: none;
+}
